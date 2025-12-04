@@ -1,4 +1,4 @@
-# AI Agent Design Principles
+# Agentic AI Design Principles
 
 An open set of design principles for building trustworthy, high-quality agentic experiences at Cisco. Use these guidelines to review new AI features, design collaborative agents, and address the common fears security and operations teams have about automation.
 
