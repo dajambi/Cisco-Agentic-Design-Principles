@@ -1,5 +1,8 @@
 # AI Agent Design Principles & Guidelines
 
+## Intro
+For years, securing an enterprise or running a global network was hands-on—analysts combed alerts, tweaked rules, matched logs and flows, and pushed configs across time zones just to keep up. The first wave of AI swapped clicks for chats, but systems still waited for our prompts. Agentic security and networking is the leap: software that proactively scans, analyzes, acts, recovers, and defends so teams can focus on strategy—while humans stay in control. These principles are grounded in our own work and best-in-class references (including Outreach) to guide that shift.
+
 ## Table of Contents
 1. [Super-Principles](#super-principles)
 2. [Core Principles](#core-principles)
@@ -147,6 +150,7 @@ Give agents clear boundaries. Define what they can do, what they must never do, 
 - Automatic rollback plans triggered by errors
 - Limits on scope, time, and cost of changes
 - Agents that pause and ask for help if confidence drops
+- Sensitive actions get explicit confirmations (including voice: short read-back + yes/no), with clear stop/pause/resume cues
 - Visual representation of boundaries and constraints
 - Clear escalation paths when limits are reached
 - Immutable audit trails of all actions and decisions
@@ -173,6 +177,7 @@ People trust decisions they can see. Let users explore how an agent decided: wha
 - Display confidence scores for actions
 - Show alternative solutions with pros and cons
 - "Ask why" options to view decision details
+- Reasoning explorable via voice (ask "why" / "what data?") with transcripts for auditability
 - Traceability to source data and applied policies
 - Audit trails that support governance requirements
 - Visual decision trees showing logic flow
@@ -228,6 +233,7 @@ Treat agents like teammates. Shift from tactical execution ("write code for X") 
 - Ownership and accountability visible in the interface
 - Briefs update automatically and follow the task through all handoffs
 - Guided templates that capture intent, constraints, and success criteria
+- Voice-ready briefs and approvals: capture goal/scope/criteria verbally, read back for confirmation, require explicit yes/no for high-impact actions; always allow quick fallback to text/tap
 - Risk tolerance levels clearly defined
 - Automatic context gathering from available sources
 
@@ -253,6 +259,8 @@ Specialized agents do better work. Keep them focused on one job, show their limi
 - Role-based outputs (quick summary for beginners, detailed logs for experts)
 - Works consistently on web, mobile, command-line, and API
 - Meets accessibility standards for clarity and usability
+- Voice-forward ready: concise prompts, clear turn-taking cues (tones/beeps), barge-in where appropriate, transcripts for recall; always offer quick fallback to visual/tap
+- State clarity: clear visual cues plus subtle audio/haptics where appropriate for state changes (ready, waiting for approval, completed); approval/override controls remain prominent; ARIA-live/focus cues keep it accessible
 - Progressive disclosure of complexity
 - Personalized interfaces that adapt to user expertise
 - Clear scope boundaries prevent confusion
