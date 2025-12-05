@@ -1,7 +1,9 @@
-# AI Agent Design Principles & Guidelines
+# Agentic Codex
+
+Principles and playbook for building trustworthy agentic products.
 
 ## Intro
-For years, securing an enterprise or running a global network was hands-on—analysts combed alerts, tweaked rules, matched logs and flows, and pushed configs across time zones just to keep up. The first wave of AI swapped clicks for chats, but systems still waited for our prompts. Agentic security and networking is the leap: software that proactively scans, analyzes, acts, recovers, and defends so teams can focus on strategy—while humans stay in control. These principles are grounded in our own work and best-in-class references (including Outreach) to guide that shift.
+For years, securing an enterprise or running a global network was hands-on—analysts combed alerts, tweaked rules, matched logs and flows, and pushed configs across time zones just to keep up. The first wave of AI swapped clicks for chats, but systems still waited for our prompts. Agentic security and networking is the leap: software that proactively scans, analyzes, acts, recovers, and defends so teams can focus on strategy—while humans stay in control. These principles are grounded in our own work and best-in-class references to guide that shift.
 
 ## Table of Contents
 1. [Super-Principles](#super-principles)

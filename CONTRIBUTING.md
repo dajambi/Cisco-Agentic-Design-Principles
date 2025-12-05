@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thanks for helping improve the AI Agent Design Principles. The goal is to keep the guidance clear, actionable, and grounded in real-world agent design.
+Thanks for helping improve the Agentic Codex. The goal is to keep the guidance clear, actionable, and grounded in real-world agent design.
 
 ## How to propose changes
 - **Start with an issue:** Describe the problem, the principle you want to change, and why it improves trust, quality, or productivity.
