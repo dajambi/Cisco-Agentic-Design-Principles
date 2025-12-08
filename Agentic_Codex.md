@@ -14,7 +14,6 @@ For years, securing an enterprise or running a global network was hands-on—ana
 3. [Ways of Working](#ways-of-working)
 4. [The Spectrum of AI Management](#the-spectrum-of-ai-management)
 5. [UX Solutions: Building Trust & Context](#ux-solutions-building-trust--context)
-6. [Phased Implementation Roadmap](#phased-implementation-roadmap)
 7. [What Security Professionals Fear](#what-security-professionals-fear)
 
 ---
