@@ -10,13 +10,13 @@ For years, securing an enterprise or running a global network was hands-on—ana
 - Use cases — grounded in security/operations, but intentionally generalizable to other domains.
 
 ## How to use this repository
-- **Product/design reviews:** Use the Super-Principles (Deliver Quality, Build Trust, Amplify Productivity) as top-level checkpoints; drill into the numbered core principles to validate flows, UX copy, safeguards, and operational readiness.
-- **Vibe coding:** Keep `Agentic_Codex.md` open alongside implementation; treat each principle as a requirements checklist (data quality, guardrails, transparency, orchestration, delegation briefs, accessibility, cost awareness).
+- **Product/design reviews:** Use the Super-Principles (Deliver Quality, Build Trust, Amplify Productivity) as top-level checkpoints. Drill into the numbered core principles to validate flows, UX copy, safeguards, and operational readiness.
+- **Vibe coding:** Keep `Agentic_Codex.md` open alongside implementation. Treat each principle as a requirements checklist (data quality, guardrails, transparency, orchestration, delegation briefs, accessibility, cost awareness).
 - **Decision defense:** Map stakeholder concerns to the “What Security Professionals Fear” section to show how your design mitigates risk.
 - **Roadmaps:** Stage your rollout with the “Phased Implementation Roadmap” and “Spectrum of AI Management” to set realistic maturity goals.
 
 ## Contributing
-Contributions are welcome. Please open an issue to propose changes, then submit a PR. See `CONTRIBUTING.md` for details on scope, writing style, and review expectations.
+Contributions are welcome. Contact directly via dajambor@cisco.com or open an issue to propose changes, then submit a PR. See `CONTRIBUTING.md` for details on scope, writing style, and review expectations.
 
 ## License
 MIT — see `LICENSE`.
