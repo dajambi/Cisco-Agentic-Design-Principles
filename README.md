@@ -1,4 +1,6 @@
-# Agentic Codex
+# Agentic Principles
+
+> **Status: Draft** — actively evolving; expect frequent updates and breaking edits.
 
 An open codex of principles and playbooks for building trustworthy, high-quality agentic products at Cisco. Use these guidelines to review new AI features, design collaborative agents, and address the common fears security and operations teams have about automation.
 

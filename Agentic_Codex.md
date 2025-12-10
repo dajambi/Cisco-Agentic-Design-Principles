@@ -1,4 +1,6 @@
-# Agentic Codex
+# Agentic Principles
+
+> **Status: Draft** — actively evolving; content will shift frequently.
 
 Principles and playbook for building trustworthy agentic products.
 
